@@ -1,5 +1,5 @@
 # Install-AwsCli-Script
-## What is AWSCLI..?
+## 🌍 What is AWSCLI..?
 ### Ans: AWS CLI (Amazon Web Services Command Line Interface) is a powerful tool that lets you interact with AWS services using command-line commands instead of the AWS Management Console.
 * It allows developers, sysadmins, and DevOps engineers to automate tasks, manage resources, and control AWS services directly from the terminal.
 
