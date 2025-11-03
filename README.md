@@ -58,6 +58,6 @@
 * aws ecr delete-repository --repository-name my-repo --force
 
 ### 🌍 7. General Info
-* aws --version         👉 Check AWS CLI version
-* aws help              👉 Show help
-* aws <service> help    👉 Show service-specific help (e.g., aws s3 help)
+* aws --version       👉 Check AWS CLI version
+* aws help            👉 Show help
+* aws <service> help  👉 Show service-specific help (e.g., aws s3 help)
