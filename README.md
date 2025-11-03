@@ -23,8 +23,9 @@
 ## 📋 Basic AWS CLI Commands
 ### ANS- 
 ### 🖥️ 1. EC2 (Elastic Compute Cloud)
-* aws ec2 describe-instances            # List all EC2 instances
-* aws ec2 start-instances --instance-ids i-0abcd1234efgh5678
-* aws ec2 stop-instances --instance-ids i-0abcd1234efgh5678
-* aws ec2 terminate-instances --instance-ids i-0abcd1234efgh5678
-* aws ec2 describe-volumes              # List EBS volumes
+* aws ec2 describe-instances 👉 List all EC2 instances
+* aws ec2 start-instances --instance-ids i-0abcd1234efgh5678 👉 Start Instance
+* aws ec2 stop-instances --instance-ids i-0abcd1234efgh5678  👉 Stop Instance
+* aws ec2 terminate-instances --instance-ids i-0abcd1234efgh5678 👉 Stop Instance
+* aws ec2 describe-volumes  👉 List EBS volumes
+
